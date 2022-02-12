@@ -18,3 +18,8 @@ npm install
 ```
 npm run serve
 ```
+
+The application will be available on:
+```
+http://localhost:8080/ 
+```
